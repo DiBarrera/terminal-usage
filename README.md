@@ -1,2 +1,9 @@
 # Terminal-Usage
-Este repo funciona como una recopilación de tips &amp; tricks sobre la buena practica del uso de la Terminal y a la vez como un glosario de comandos.
+This repo works as a compilation of tips &#38 tricks on the use of the Terminal.
+
+## Essential skills acquired
+
+* Terminal concept
+* Knowledge of basic and advanced commands
+* How to move inside the terminal
+* Explore directories 
